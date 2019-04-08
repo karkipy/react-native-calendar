@@ -3,9 +3,18 @@
   "version": "1.0.0",
   "description": "Calendar Widget",
   "main": "src/index.js",
-  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8",
+    "react-native": ">=0.59"
+  },
+  "devDependencies": {
+    "@sharingapples/eslint-config": "^1.0.4"
+  },
   "private": false,
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": "git@github.com:sharingapples/react-native-calendar.git",
+  "author": "Aashish Karki <aashish.y2z@gmail.com>",
+  "license": "MIT"
 }
