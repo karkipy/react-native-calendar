@@ -1,0 +1,11 @@
+{
+  "name": "@sharingapples/calendar",
+  "version": "1.0.0",
+  "description": "Calendar Widget",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
