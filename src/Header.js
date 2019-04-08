@@ -1,8 +1,8 @@
 // @flow
 import React from 'react';
 import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
-import right from './right.png';
-import left from './left.png';
+import right from './assets/right.png';
+import left from './assets/left.png';
 
 const styles = StyleSheet.create({
   container: {
